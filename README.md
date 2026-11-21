@@ -1,5 +1,10 @@
+# 실행화면
 <img width="950" height="514" alt="image" src="https://github.com/user-attachments/assets/bdefa88f-1c7c-409a-aefa-54d815959032" />
 <img width="3680" height="2212" alt="image" src="https://github.com/user-attachments/assets/4d23361e-850b-42ea-b30b-c62599c11f2a" />
+
+
+# 아키텍쳐
+<img width="2720" height="1200" alt="image" src="https://github.com/user-attachments/assets/07120825-754f-4b37-8dae-842168cabd76" />
 
 
 # Teleprobe
