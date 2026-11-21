@@ -1,3 +1,7 @@
+<img width="950" height="514" alt="image" src="https://github.com/user-attachments/assets/bdefa88f-1c7c-409a-aefa-54d815959032" />
+<img width="3680" height="2212" alt="image" src="https://github.com/user-attachments/assets/4d23361e-850b-42ea-b30b-c62599c11f2a" />
+
+
 # Teleprobe
 
 OSINT 플랫폼을 위한 백엔드 서버. 웹 검색(SerpApi/Google)을 통해 마약 관련 키워드를 수집하고, 정적 크롤링으로 페이지 본문을 추출한 뒤, Gemini Batch API로 "실제 판매글인지"를 판정하여 MongoDB에 저장합니다.
